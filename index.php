@@ -19,7 +19,7 @@
 	</ul>
 </nav>	
 <div class="slider">
-<img src="1.jpg" height="450" width="960">
+<img src="1.jpg" height="450" width="850">
 </div>
 
 <div class="slider">
